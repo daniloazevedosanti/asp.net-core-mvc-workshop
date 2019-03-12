@@ -1,0 +1,23 @@
+[33mee35ab9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Validation
+[33md0415db[m Validation with validation-for - list required
+[33m5d09084[m Validation with validation-summary - list required
+[33meb137d1[m App locale, number and date formatting
+[33m744d6f6[m Returning custom error page
+[33m0ea86d6[m Update seller and custom service exception
+[33m00bdbcd[m Update seller and custom service exception
+[33m5f87825[m Seller details and eager loading
+[33m08cc3c6[m Delete Seller
+[33mb05afe1[m SellerFormViewModel and Department select component
+[33mdba746d[m Foreign key not null (referential integrity)
+[33ma255095[m Simple Create form
+[33m9a6d35c[m SellerService and basic FindAll
+[33mc65c8d7[m SellersController
+[33mc9ac5aa[m Seeding Service
+[33mc65c260[m Other entities and second migration
+[33m050d998[m Changing theme
+[33m2cedaef[m MySQL adaptation and first migration
+[33m5b39756[m  Crud Scaffolding
+[33m8fa09b9[m Deleting Department view and controller
+[33m3cf9a65[m First Model-Controller-View - Department
+[33m55ce101[m First controller and Razor pages tests
+[33m7c2b010[m Iniciando o projeto Asp.Net Core MVC
