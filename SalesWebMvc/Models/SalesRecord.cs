@@ -14,8 +14,9 @@ namespace SalesWebMvc.Models
         public double Amount { get; set; }
         public SalesStatus Status { get; set; }
         public Seller Seller { get; set; }
+       // public Department Department { get; set; }
 
-        public SalesRecord() { }
+      public SalesRecord() { }
 
         public SalesRecord(int id, DateTime date, double amount, SalesStatus status, Seller seller)
         {
